@@ -1,0 +1,201 @@
+<mjml>
+  <mj-body background-color="white">
+     <mj-image />
+  <mj-image src="" width="50px"></mj-image>
+
+
+    
+    
+
+
+    
+// HEADER
+    
+   
+      
+       <mj-image  src="https://raw.githubusercontent.com/dlsagayaraj/lifionpics/master/Lifion%20Chennai.jpg" alt="" width="100%" height="100%" full-width="full-width"></mj-image>
+        
+
+     <mj-section background-color=white vertical-align="middle" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" color="black" font-size="21px" padding-bottom="1px" padding-top="1px">NEWSLETTER - AUGUST 2018</mj-text>
+      </mj-column>
+    </mj-section>
+
+
+        
+        <mj-section background-color="#20a6ff" vertical-align="middle" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" color="#ffffff" font-size="18px" padding-bottom="1px" padding-top="1px">New Joiners this Month</mj-text>
+      </mj-column>
+    </mj-section>
+        
+        
+        
+        
+        
+ // NEW JOINERS       
+        
+    <mj-section background-color="#ffffff" vertical-align="top" full-width="full-width">
+      <mj-column vertical-align="top" width="50%">
+        <mj-image  src="https://raw.githubusercontent.com/dlsagayaraj/lifionpics/master/Praveen.png" alt="" width="200px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="14px" padding-bottom="30px" padding-top="20"><span style="font-size: 17px; color: #e85034">Praveen Kumar</span><br><br>Senior Application Developer</mj-text>
+      </mj-column>
+      <mj-column vertical-align="top" width="50%">
+        <mj-image src="https://raw.githubusercontent.com/dlsagayaraj/lifionpics/master/Kumar.png" alt="" width="200px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="14px" padding-bottom="30px" padding-top="20"><span style="font-size: 17px; color: #e85034">Kumarraj Kungumaraj</span><br><br>Application Developer</mj-text>
+      </mj-column>
+          
+          
+          
+          
+
+// TECH TALKS
+          
+    </mj-section>
+        <mj-section background-color="#20a6ff" vertical-align="middle" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" color="#ffffff" font-size="18px" padding-bottom="1px" padding-top="1px">Tech Talks at Lifion Chennai</mj-text>
+      </mj-column>
+    </mj-section>
+        
+        <mj-text background-color="white" align="center" color="gray" font-size="13px" padding-bottom="1px"></br>For the first time in Lifion Chennai, an interactive Lunch & Learn session to share knowledge about current and upcoming technologies</mj-text>
+          
+          
+
+          
+          
+          
+// TECH TALK 1
+        
+    <mj-section vertical-align="middle" background-color="#ffffff" full-width="full-width">
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image src="https://raw.githubusercontent.com/dlsagayaraj/lifionpics/master/Martin%20Gopi.png" alt="" padding-bottom="20px" padding-top="10"></mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text align="middle" color="#9da3a3" font-size="13px" padding-bottom="px" padding-top="25"><span style="font-weight: bold; font-size: 15px; color: #45474e">Amazon SQS & Dynamo DB</span><br><br>– Martin Joseph & Gopinath</mj-text>
+        <mj-button align="center" background-color="#e85034" color="#fff" border-radius="24px" font-size="11px" href="https://videoondemand.adp.com/media/Amazon+SQS+%26ampB+Dynamo+DB/1_uaea4eyc/41628802" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="45px" padding-top="10">Watch Video</mj-button>
+
+ <mj-text align="middle" color="#9da3a3" font-size="13px" padding-bottom="px" padding-top="5"><span style="font-weight: bold; font-size: 15px; color: #45474e">Purpose & Benefits of the TrueCD</span><br><br>– Neil Hopkins</mj-text>
+            <mj-text align="middle">A framework (TrueCD) that helps in implementing Continuous Deployment (CD), which easily facilitates addition of new features to the CD pipeline. </br></br> The NewCD provides a better mechanism to maintain, modify, deploy and debug various stages of the CD pipeline.</mj-text>
+  
+      </mj-column>
+<mj-divider border-width="2px" border-color="#E0E0E0"></mj-divider>
+     <mj-text   align="middle">Upcoming Session in September – Service Workers by Arun Prakash</mj-text>
+<mj-divider border-width="2px" border-color="#E0E0E0"></mj-divider>
+
+    </mj-section>
+        
+        
+
+
+        
+     
+ 
+        
+// LIFION UNWIND
+          
+
+        <mj-section background-color="#20a6ff" vertical-align="middle" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" color="#ffffff" font-size="18px" padding-bottom="1px" padding-top="1px">Lifion Unwind – Work Hard, Play Harder</mj-text>
+      </mj-column>
+    </mj-section>
+        
+        <mj-text background-color="white" align="center" color="gray" font-size="13px" padding-bottom="1px"></br>Lifion Unwind is a fun activity session that happens every other Thursday where Lifionites take a break from everyday routine and come together to have a good time <br><br></mj-text>
+          
+ <mj-column width="100%" vertical-align="middle">
+        <mj-image src="https://raw.githubusercontent.com/dlsagayaraj/lifionpics/master/Unwind.jpg" alt="" padding="5px 5px 5px 5px" ></mj-image>
+
+      </mj-column>
+       
+
+
+        
+// CHENNAI HACKATHON
+          
+        <mj-section background-color="#20a6ff" vertical-align="middle" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" color="#ffffff" font-size="18px" padding-bottom="1px" padding-top="1px">Chennai Hackathon | 7th Aug 2018</mj-text>
+      </mj-column>
+    </mj-section>
+
+       <mj-text background-color="white" align="center" color="gray" font-size="13px" padding-bottom="1px"></br>Fire in Eyes, Focus in Thoughts, High in Ambition – that's how the Hackathon Day started in Chennai<br></br></mj-text>
+
+
+        <mj-image width = 650px src="https://raw.githubusercontent.com/dlsagayaraj/lifionpics/master/Hackathon.jpg" alt="" padding="5px 5px 5px 5px" ></mj-image>
+
+
+
+// HACKATHON DESCRIPTIONS
+
+         <mj-section>
+           <mj-text align="center">7 wise teams with 80 battlers contending for the throne</br><br>
+           <mj-text align="left">Teams developed mini-apps with realistic go-to-market use cases</br><br>
+           <mj-text align="left">New Lifionites who recently joined also took part in this Hackathon – proving how easy it is to get started and build mini-apps on the Platform 
+           </mj-text>
+      </mj-section>
+
+
+
+
+// PRIZE WINNERS
+
+
+  <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">Prize Winners</mj-text>
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+      </mj-column>
+
+
+
+    <mj-section vertical-align="middle" background-color="#ffffff" full-width="full-width">
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image src="https://raw.githubusercontent.com/dlsagayaraj/lifionpics/master/NoName.jpg" alt="" padding-bottom="20px" padding-top="20"></mj-image>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="16px">A Team With No Name</br></mj-text>
+        <mj-text align="center" font-weight="300" padding="10px" font-size="16px">1st Prize</br></mj-text>
+
+      </mj-column>
+
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image src="https://raw.githubusercontent.com/dlsagayaraj/lifionpics/master/Targaryen.jpg" alt="" padding-bottom="20px" padding-top="20"></mj-image>
+        <mj-text align="center" font-weight="500" padding="0px"  font-size="16px">House Targaryen</br></mj-text>
+        <mj-text align="center" font-weight="300" padding="10px" font-size="16px">2nd Prize</br></mj-text>
+
+      </mj-column>
+
+    </mj-section>
+
+
+
+
+// FOOTER
+        
+<mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="65%">
+        <mj-image align="left" width="70px" href="https://recast.ai?ref=newsletter" src="https://raw.githubusercontent.com/dlsagayaraj/lifionpics/master/Lifion Logo.png"></mj-image>
+      </mj-column>
+      <mj-column width="35%">
+        <mj-table>
+          <tr style="list-style: none;line-height:1">
+            <td> <a href="http://lifion.com/">
+                  <img width="20" src="https://raw.githubusercontent.com/dlsagayaraj/lifionpics/master/Web.png" />
+                </a> </td>
+            <td> <a href="https://www.facebook.com/lifionbyadp/">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/facebook.png" />
+                </a> </td>
+            <td> <a href="https://www.youtube.com/channel/UCrHEV1gGCNsmXCIjxpGmrpQ">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/youtube.png" />
+                </a> </td>
+           
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>          
+          
+  </mj-body>
+</mjml>
